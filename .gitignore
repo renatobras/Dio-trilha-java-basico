@@ -23,3 +23,5 @@
 hs_err_pid*
 replay_pid*
 tipo-variaveis/.vscode/settings.json
+tipo-variaveis/src/Tipos-Variaveis.java
+tipo-variaveis/src/App.java
